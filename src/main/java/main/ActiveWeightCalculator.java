@@ -6,7 +6,7 @@ package main;
 public class ActiveWeightCalculator implements InputWeightCalculator {
     @Override
     public Integer getBorder(Integer inputsCount) {
-        return inputsCount * 60 * 60;
+        return inputsCount * 40 * 40;
     }
 
     @Override
