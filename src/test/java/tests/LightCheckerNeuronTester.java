@@ -1,6 +1,6 @@
 package tests;
 
-import main.LightRecognitionNeuron;
+import light.LightRecognitionNeuron;
 import org.junit.Test;
 
 import java.util.Random;

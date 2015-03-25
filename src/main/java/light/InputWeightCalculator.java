@@ -1,4 +1,4 @@
-package main;
+package light;
 
 /**
  * Created by irakli on 3/20/2015.

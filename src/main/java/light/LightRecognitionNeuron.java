@@ -1,4 +1,4 @@
-package main;
+package light;
 
 import java.util.ArrayList;
 import java.util.List;
